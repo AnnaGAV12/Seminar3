@@ -11,3 +11,6 @@ git config --global user.email
 ```
 
 ## Отобразить весь конфиг
+```sh
+git config --list
+```
